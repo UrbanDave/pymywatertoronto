@@ -1,0 +1,9 @@
+mywatertoronto.log
+build/*
+dist/*
+tests/*
+test.py
+.idea/*
+.vscode/*
+.tox/*
+*pyc
